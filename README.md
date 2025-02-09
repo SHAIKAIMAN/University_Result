@@ -2,6 +2,8 @@
 
 A web-based application that allows students to check their university results by entering their roll number. This project is built using **HTML, CSS, JDBC, and Servlets**.
 
+<br>
+
 **Features**
 
 📌 Student can enter their roll number to fetch results
@@ -16,15 +18,15 @@ A web-based application that allows students to check their university results b
 
 **Technologies Used**
 
-Frontend: HTML, CSS
+**Frontend:** HTML, CSS
 
-Backend: Java Servlets
+**Backend:** Java Servlets
 
-Database Connection: JDBC
+**Database Connection:** JDBC
 
-Database: MySQL (or any other SQL-based database)
+**Database:** MySQL (or any other SQL-based database)
 
-Installation & Setup
+**Installation & Setup**
 
 Prerequisites
 
@@ -36,7 +38,7 @@ MySQL database
 
 JDBC Driver (MySQL Connector or relevant)
 
-Steps to Run
+**Steps to Run**
 
 Clone the repository
 
