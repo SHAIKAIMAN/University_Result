@@ -78,13 +78,12 @@ Start Tomcat and access the application at http://localhost:8080/university-resu
 
 **Home Page**
 
-![Screenshot 2025-02-09 124813](https://github.com/user-attachments/assets/268a299c-70fc-4447-a166-bce6ebbd5d62)
+![Screenshot 2025-02-09 134059](https://github.com/user-attachments/assets/8e907449-b28e-4f1f-ae7f-4c569dcf2fcb)
 
 ---
 
 **Result Page**
-
-![Screenshot 2025-02-09 124916](https://github.com/user-attachments/assets/62ac4c8a-89e4-4e1c-ba7a-dec2cd0b0448)
+![image](https://github.com/user-attachments/assets/8f3d3b6f-d6a2-48fd-ba62-e81abddeb352)
 
 ---
 
