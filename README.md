@@ -1,5 +1,5 @@
 **<h1>University Result Management System</h1>**
----
+
 
 A web-based application that allows students to check their university results by entering their roll number. This project is built using **HTML, CSS, JDBC, and Servlets**.
 
